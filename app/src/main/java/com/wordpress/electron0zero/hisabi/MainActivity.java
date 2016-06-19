@@ -111,13 +111,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         boolean isAnyNull = true ;
 
         if (isEmpty(mN)){
-            Toast.makeText(MainActivity.this, "Enter Value For North ", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, R.string.ToastNorth, Toast.LENGTH_SHORT).show();
         }else if(isEmpty(mS)){
-            Toast.makeText(MainActivity.this, "Enter Value for South ", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, R.string.ToastSouth, Toast.LENGTH_SHORT).show();
         }else if (isEmpty(mE)){
-            Toast.makeText(MainActivity.this, "Enter Value for East", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, R.string.ToastEast, Toast.LENGTH_SHORT).show();
         }else if (isEmpty(mW)){
-            Toast.makeText(MainActivity.this, "Enter Value For West", Toast.LENGTH_SHORT).show();
+            Toast.makeText(MainActivity.this, R.string.ToastWest, Toast.LENGTH_SHORT).show();
         }else {
             //tested everything, now we can say nothing is null
             isAnyNull = false;

@@ -14,9 +14,10 @@ public class Help extends AppCompatActivity {
         setContentView(R.layout.activity_help);
     }
     public void goToTwitter (View view) {
-        goToUrl ( "https://twitter.com/electron0zero");
+        goToUrl ( getString(R.string.myTwitter));
     }
 
+    //helper function to handle urls
     private void goToUrl (String url) {
         Uri uriUrl = Uri.parse(url);
         Intent launchBrowser = new Intent(Intent.ACTION_VIEW, uriUrl);

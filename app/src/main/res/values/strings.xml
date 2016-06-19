@@ -20,4 +20,9 @@
     <string name="about">About</string>
     <string name="textAboutDetails">if you are interested in contacting me regarding any issues/help/feedback, ping me on twitter or get contact info from my twitter</string>
     <string name="twitter">My twitter</string>
+    <string name="ToastNorth">"Enter Value For North "</string>
+    <string name="ToastSouth">"Enter Value for South "</string>
+    <string name="ToastEast">Enter Value for East</string>
+    <string name="ToastWest">Enter Value For West</string>
+    <string name="myTwitter">https://twitter.com/electron0zero</string>
 </resources>
