@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Hisabi</string>
+    <string name="action_settings">Settings</string>
+    <string name="north">North</string>
+    <string name="south">South</string>
+    <string name="east">East</string>
+    <string name="west">West</string>
+    <string name="calculate">Calculate</string>
+    <string name="help">Help</string>
+    <string name="textIntro">This Application is created/used to calculate Area of land based on Traditional Indian Land Measurements System Also Known As Bigha and Biswa System</string>
+    <string name="how_to_use">How To Use</string>
+    <string name="textUseDetails">Enter your land measurements of each Side(in Feet) into Respective Text Field, Hit Calculate, See Your Results Right There</string>
+    <string name="measurement_details">Measurement Details</string>
+    <string name="textTechDetails">1 Bigha = 20 Biswa</string>
+    <string name="textTechDetails2">1 Bigha = 165*165 = 27225 sq. feet</string>
+    <string name="textTechDetails3">1 Biswa = 27225/20 = 1361.25 sq. feet</string>
+    <string name="textTechDetails4">All Measurements Used is in feet, You Should be using Feet for Your Measurements</string>
+    <string name="disclaimer">Disclaimer</string>
+    <string name="textDiscDetails">This application is distributed without any warranty and support, author of this application will not be responsible for any kind of damage/dispute and inaccuracy in Calculations</string>
+    <string name="about">About</string>
+    <string name="textAboutDetails">if you are interested in contacting me regarding any issues/help/feedback, ping me on twitter or get contact info from my twitter</string>
+    <string name="twitter">My twitter</string>
+</resources>
