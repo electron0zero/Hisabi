@@ -94,8 +94,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         //1 Bigha = 20 biswa.
         //tmp contains Area that is not mod of bigha
         // tmp/(27225/20) == Remaining Biswa
-        int tmp = (int)area%27225;
-        float Biswa = tmp/(27225/20);
+        float tmp = area%27225;
+        float Biswa1area = (float)27225/(float)20;
+        float Biswa = tmp/Biswa1area;
 
         return Biswa;
     }
