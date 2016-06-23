@@ -13,7 +13,7 @@ These units is used in conversion,also feet is the unit for everything in this a
 see ./Screenshots folder
 
 ## build
-use android Studio to build it or get .apk file from project root directory
+use android Studio to build it or get .apk file from [here](https://drive.google.com/file/d/0B5fpeQtE9oicZkZBMWZwbFM5OEk/view?usp=drivesdk)
 
 ##SDK version
     minSdkVersion 17
@@ -25,4 +25,4 @@ report here or submit a Pull Request
 
 ## TODO
 1. refactor magic numbers
-2. add settings to modify area units for conversion 
+2. add settings to modify area units for conversion
