@@ -10,8 +10,10 @@ we used these units because it's standard around my place
 These units is used in conversion,also feet is the unit for everything in this application
 
 ## Screenshots
-see ./Screenshots folder
-
+<p align="center"><img src="https://raw.githubusercontent.com/electron0zero/Hisabi/master/screenshots/1.png" height="400">
+<img src="https://raw.githubusercontent.com/electron0zero/Hisabi/master/screenshots/2.png" height="400">
+<img src="https://raw.githubusercontent.com/electron0zero/Hisabi/master/screenshots/3.png" height="400">
+<img src="https://raw.githubusercontent.com/electron0zero/Hisabi/master/screenshots/4.png" height="400"></p>
 ## build
 use android Studio to build it or get .apk file from [here](https://drive.google.com/file/d/0B5fpeQtE9oicZkZBMWZwbFM5OEk/view?usp=drivesdk)
 
