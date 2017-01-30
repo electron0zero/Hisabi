@@ -16,7 +16,7 @@ These units is used in conversion, also feet is the unit for everything in this 
 <img src="https://raw.githubusercontent.com/electron0zero/Hisabi/master/screenshots/4.png" height="300"></p>
 
 ## build
-use android Studio to build it or get .apk file from [here](https://drive.google.com/file/d/0B5fpeQtE9oicZkZBMWZwbFM5OEk/view?usp=drivesdk)
+use android Studio to build it or get .apk file from [here](https://github.com/electron0zero/Hisabi/releases)
 
 ##SDK version
     minSdkVersion 17
